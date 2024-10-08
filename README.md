@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prats222/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Prats222/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Prats222/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0680-valid-palindrome-ii](https://github.com/Prats222/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prats222/CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Binary Search
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Prats222/CrackYourPlacement/tree/master/0067-add-binary) |
+| [0680-valid-palindrome-ii](https://github.com/Prats222/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prats222/CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Stack
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0680-valid-palindrome-ii](https://github.com/Prats222/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prats222/CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Simulation
 |  |
