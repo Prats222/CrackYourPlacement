@@ -70,4 +70,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/Prats222/CrackYourPlacement/tree/master/0185-department-top-three-salaries) |
+| [1135-customers-who-bought-all-products](https://github.com/Prats222/CrackYourPlacement/tree/master/1135-customers-who-bought-all-products) |
 <!---LeetCode Topics End-->
