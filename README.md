@@ -66,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Prats222/CrackYourPlacement/tree/master/0022-generate-parentheses) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/Prats222/CrackYourPlacement/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
