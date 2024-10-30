@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Prats222/CrackYourPlacement/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Prats222/CrackYourPlacement/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/Prats222/CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Prats222/CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0065-valid-number](https://github.com/Prats222/CrackYourPlacement/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Prats222/CrackYourPlacement/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/Prats222/CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0680-valid-palindrome-ii](https://github.com/Prats222/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Prats222/CrackYourPlacement/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1508-longest-happy-prefix](https://github.com/Prats222/CrackYourPlacement/tree/master/1508-longest-happy-prefix) |
