@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Prats222/CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0680-valid-palindrome-ii](https://github.com/Prats222/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Prats222/CrackYourPlacement/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Prats222/CrackYourPlacement/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1508-longest-happy-prefix](https://github.com/Prats222/CrackYourPlacement/tree/master/1508-longest-happy-prefix) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prats222/CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Stack
