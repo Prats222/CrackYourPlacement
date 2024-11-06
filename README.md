@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/Prats222/CrackYourPlacement/tree/master/0092-reverse-linked-list-ii) |
+| [0203-remove-linked-list-elements](https://github.com/Prats222/CrackYourPlacement/tree/master/0203-remove-linked-list-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prats222/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Prats222/CrackYourPlacement/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
