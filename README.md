@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Prats222/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [1002-maximum-width-ramp](https://github.com/Prats222/CrackYourPlacement/tree/master/1002-maximum-width-ramp) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prats222/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Prats222/CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Prats222/CrackYourPlacement/tree/master/2586-longest-square-streak-in-an-array) |
 ## Two Pointers
 |  |
@@ -20,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Prats222/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Prats222/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/Prats222/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Prats222/CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prats222/CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Binary Search
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Prats222/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Prats222/CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Prats222/CrackYourPlacement/tree/master/2586-longest-square-streak-in-an-array) |
 ## Bit Manipulation
 |  |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Prats222/CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Prats222/CrackYourPlacement/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Prats222/CrackYourPlacement/tree/master/1002-maximum-width-ramp) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Prats222/CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prats222/CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Greedy
 |  |
@@ -99,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Prats222/CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [1002-maximum-width-ramp](https://github.com/Prats222/CrackYourPlacement/tree/master/1002-maximum-width-ramp) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Prats222/CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Rolling Hash
 |  |
 | ------- |
