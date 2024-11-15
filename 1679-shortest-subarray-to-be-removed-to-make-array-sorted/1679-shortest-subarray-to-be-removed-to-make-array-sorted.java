@@ -3,10 +3,10 @@ class Solution {
         int n = arr.length, left = 0, right = n - 1;
 
         // Find the longest non-decreasing prefix
-        while (left < n - 1 && arr[left] <= arr[left + 1]) left++;
+        while (left < right && arr[left] <= arr[left + 1]) left++;
 
         // If the array is already sorted
-        if (left == n - 1) return 0;
+        if (left == right) return 0;
 
         // Find the longest non-decreasing suffix
         while (right > 0 && arr[right - 1] <= arr[right]) right--;
