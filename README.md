@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prats222/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Prats222/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/Prats222/CrackYourPlacement/tree/master/0120-triangle) |
+| [0268-missing-number](https://github.com/Prats222/CrackYourPlacement/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prats222/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Prats222/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prats222/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Prats222/CrackYourPlacement/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Prats222/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Prats222/CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Prats222/CrackYourPlacement/tree/master/2586-longest-square-streak-in-an-array) |
@@ -37,11 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Prats222/CrackYourPlacement/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/Prats222/CrackYourPlacement/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Prats222/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Prats222/CrackYourPlacement/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/Prats222/CrackYourPlacement/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prats222/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Prats222/CrackYourPlacement/tree/master/2586-longest-square-streak-in-an-array) |
 ## Math
@@ -50,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Prats222/CrackYourPlacement/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Prats222/CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Prats222/CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
+| [0268-missing-number](https://github.com/Prats222/CrackYourPlacement/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prats222/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
@@ -125,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prats222/CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/Prats222/CrackYourPlacement/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prats222/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prats222/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Prats222/CrackYourPlacement/tree/master/0496-next-greater-element-i) |
