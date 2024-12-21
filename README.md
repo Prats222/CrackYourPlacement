@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/Prats222/CrackYourPlacement/tree/master/1002-maximum-width-ramp) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prats222/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Prats222/CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Prats222/CrackYourPlacement/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Prats222/CrackYourPlacement/tree/master/2586-longest-square-streak-in-an-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Prats222/CrackYourPlacement/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Prats222/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prats222/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Prats222/CrackYourPlacement/tree/master/0496-next-greater-element-i) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Prats222/CrackYourPlacement/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Prats222/CrackYourPlacement/tree/master/2586-longest-square-streak-in-an-array) |
 ## Linked List
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prats222/CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prats222/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prats222/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Prats222/CrackYourPlacement/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Prats222/CrackYourPlacement/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Prefix Sum
 |  |
