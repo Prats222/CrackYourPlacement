@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Prats222/CrackYourPlacement/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prats222/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Prats222/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Prats222/CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prats222/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Prats222/CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prats222/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Prats222/CrackYourPlacement/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Prats222/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Prats222/CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Prats222/CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Prats222/CrackYourPlacement/tree/master/2586-longest-square-streak-in-an-array) |
 ## Bit Manipulation
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Prats222/CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Prats222/CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Prats222/CrackYourPlacement/tree/master/0120-triangle) |
+| [0300-longest-increasing-subsequence](https://github.com/Prats222/CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Prats222/CrackYourPlacement/tree/master/2586-longest-square-streak-in-an-array) |
 ## Memoization
 |  |
