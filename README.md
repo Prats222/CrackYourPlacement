@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Prats222/CrackYourPlacement/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Prats222/CrackYourPlacement/tree/master/2586-longest-square-streak-in-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Prats222/CrackYourPlacement/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Prats222/CrackYourPlacement/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Prats222/CrackYourPlacement/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prats222/CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2465-shifting-letters-ii](https://github.com/Prats222/CrackYourPlacement/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Prats222/CrackYourPlacement/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Prats222/CrackYourPlacement/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Stack
 |  |
 | ------- |
@@ -132,15 +134,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/Prats222/CrackYourPlacement/tree/master/1508-longest-happy-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Prats222/CrackYourPlacement/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/Prats222/CrackYourPlacement/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/Prats222/CrackYourPlacement/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Prats222/CrackYourPlacement/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/Prats222/CrackYourPlacement/tree/master/1508-longest-happy-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Prats222/CrackYourPlacement/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -178,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Prats222/CrackYourPlacement/tree/master/0203-remove-linked-list-elements) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Prats222/CrackYourPlacement/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
