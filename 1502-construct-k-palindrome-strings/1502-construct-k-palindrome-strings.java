@@ -1,21 +1,17 @@
-import java.util.Arrays;
+import java.util.HashMap;
 
 class Solution {
     public boolean canConstruct(String s, int k) {
         if (s.length() < k) return false;
 
-        char[] chars = s.toCharArray();
-        Arrays.sort(chars);
-        int oddCount = 0;
+        HashMap<Character, Integer> charCount = new HashMap<>();
+        for (char c : s.toCharArray()) {
+            charCount.put(c, charCount.getOrDefault(c, 0) + 1);
+        }
 
-        for (int i = 0; i < chars.length; ) {
-            char current = chars[i];
-            int count = 0;
-            while (i < chars.length && chars[i] == current) {
-                count++;
-                i++;
-            }
-            if (count % 2 != 0) oddCount++;
+        int oddCount = 0;
+        for (int freq : charCount.values()) {
+            if (freq % 2 != 0) oddCount++;
         }
 
         return oddCount <= k;
