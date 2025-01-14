@@ -1,23 +1,20 @@
 class Solution {
     public int characterReplacement(String s, int k) {
-        int ans=0;
-        for(char c='A';c<='Z'; c++){
-            int i=0,j=0, replace=0;
-            while(j<s.length()){
-                if(s.charAt(j)==c){
-                    j++;
-                }else if(replace<k){
-                    j++;
-                    replace++;
-                }else if(s.charAt(i)==c){
-                    i++;
-                }else{
-                    i++;
-                    replace--;
-                }
-                ans=Math.max(ans,j-i);
+        int arr[] = new int[26];
+        int res = 0; 
+        int max = 0;
+        int start=0;
+        for(int end=0;end<s.length();end++){
+            arr[s.charAt(end)-'A']++;
+
+            max=Math.max(max,arr[s.charAt(end)-'A']);
+
+            if(end-start+1 - max > k){
+                arr[s.charAt(start)-'A']--;
+                start++;
             }
+            res = Math.max(res,end-start+1);
         }
-        return ans;
+        return res;
     }
 }
