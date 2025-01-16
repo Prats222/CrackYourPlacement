@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Prats222/CrackYourPlacement/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Prats222/CrackYourPlacement/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Prats222/CrackYourPlacement/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Prats222/CrackYourPlacement/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Prats222/CrackYourPlacement/tree/master/1502-construct-k-palindrome-strings) |
 | [1508-longest-happy-prefix](https://github.com/Prats222/CrackYourPlacement/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/Prats222/CrackYourPlacement/tree/master/1524-string-matching-in-an-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Prats222/CrackYourPlacement/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Prats222/CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prats222/CrackYourPlacement/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Prats222/CrackYourPlacement/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Prats222/CrackYourPlacement/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Prats222/CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Prats222/CrackYourPlacement/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Prats222/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Prats222/CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prats222/CrackYourPlacement/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Prats222/CrackYourPlacement/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prats222/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Prats222/CrackYourPlacement/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Prats222/CrackYourPlacement/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
