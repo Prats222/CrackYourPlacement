@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Prats222/CrackYourPlacement/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prats222/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Prats222/CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2145-grid-game](https://github.com/Prats222/CrackYourPlacement/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Prats222/CrackYourPlacement/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Prats222/CrackYourPlacement/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Prats222/CrackYourPlacement/tree/master/2465-shifting-letters-ii) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Prats222/CrackYourPlacement/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prats222/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Prats222/CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/Prats222/CrackYourPlacement/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/Prats222/CrackYourPlacement/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Prats222/CrackYourPlacement/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Prats222/CrackYourPlacement/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -232,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Prats222/CrackYourPlacement/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Matrix
+|  |
+| ------- |
+| [2145-grid-game](https://github.com/Prats222/CrackYourPlacement/tree/master/2145-grid-game) |
 <!---LeetCode Topics End-->
