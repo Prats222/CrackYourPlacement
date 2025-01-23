@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Prats222/CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 | [1002-maximum-width-ramp](https://github.com/Prats222/CrackYourPlacement/tree/master/1002-maximum-width-ramp) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prats222/CrackYourPlacement/tree/master/1370-count-number-of-nice-subarrays) |
+| [1396-count-servers-that-communicate](https://github.com/Prats222/CrackYourPlacement/tree/master/1396-count-servers-that-communicate) |
 | [1524-string-matching-in-an-array](https://github.com/Prats222/CrackYourPlacement/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prats222/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Prats222/CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/Prats222/CrackYourPlacement/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Prats222/CrackYourPlacement/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Prats222/CrackYourPlacement/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Brainteaser
@@ -237,5 +239,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/Prats222/CrackYourPlacement/tree/master/1396-count-servers-that-communicate) |
 | [2145-grid-game](https://github.com/Prats222/CrackYourPlacement/tree/master/2145-grid-game) |
+## Depth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Prats222/CrackYourPlacement/tree/master/1396-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Prats222/CrackYourPlacement/tree/master/1396-count-servers-that-communicate) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Prats222/CrackYourPlacement/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
