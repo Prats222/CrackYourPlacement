@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/Prats222/CrackYourPlacement/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Prats222/CrackYourPlacement/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Prats222/CrackYourPlacement/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Prats222/CrackYourPlacement/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Prats222/CrackYourPlacement/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Prats222/CrackYourPlacement/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Prats222/CrackYourPlacement/tree/master/2792-neighboring-bitwise-xor) |
+| [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Prats222/CrackYourPlacement/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Sorting
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Prats222/CrackYourPlacement/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prats222/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prats222/CrackYourPlacement/tree/master/1370-count-number-of-nice-subarrays) |
+| [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Prats222/CrackYourPlacement/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Prats222/CrackYourPlacement/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Prats222/CrackYourPlacement/tree/master/1558-course-schedule-iv) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Prats222/CrackYourPlacement/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Prats222/CrackYourPlacement/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Union Find
 |  |
 | ------- |
@@ -268,4 +272,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1558-course-schedule-iv](https://github.com/Prats222/CrackYourPlacement/tree/master/1558-course-schedule-iv) |
+## Game Theory
+|  |
+| ------- |
+| [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Prats222/CrackYourPlacement/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
+## Bitmask
+|  |
+| ------- |
+| [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/Prats222/CrackYourPlacement/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 <!---LeetCode Topics End-->
