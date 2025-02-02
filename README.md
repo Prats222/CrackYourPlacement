@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prats222/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Prats222/CrackYourPlacement/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Prats222/CrackYourPlacement/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Prats222/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Prats222/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/Prats222/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Prats222/CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0065-valid-number](https://github.com/Prats222/CrackYourPlacement/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Prats222/CrackYourPlacement/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Prats222/CrackYourPlacement/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Prats222/CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prats222/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/Prats222/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
